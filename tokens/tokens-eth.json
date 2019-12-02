@@ -1,5 +1,38 @@
 [
 {
+},{
+"symbol"      : "real:,
+"address"     : "0x8e656797a8c494ab9148b21e30250ced0afd9f17:,
+"decimals"    : "3:,
+"name"        : "realcoin:,
+"ens_address" : "",
+"website"          :"http://realcoin.com/:,
+"logo": {
+  "src"            :"",
+  "width"          :"",
+  "height"         :"",
+  "ipfs_hash"      :""
+},
+"support": {
+  "email"          :"generalgubernator1@Gmail.com/:,
+  "url"            :""
+},
+"social": {
+  "blog"           :"",
+  "chat"           :"",
+  "facebook"       :"",
+  "fourm"          :"",
+  "github"         :"",
+  "gitter"         :"",
+  "instagram"      :"",
+  "linkedin"       :"",
+  "reddit"         :"",
+  "slack"          :"",
+  "telegram"       :"",
+  "twitter"        :"",
+  "youtube"        :""
+}
+},{
 "symbol"      : "1WO",
 "address"     : "0xfdbc1adc26f0f8f8606a5d63b7d3a3cd21c22b23",
 "decimals"    : "8",
