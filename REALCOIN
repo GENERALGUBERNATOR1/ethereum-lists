@@ -1,3 +1,129 @@
-EVGHENICOIN
-BITCOIN
-DASHCOIN
+[
+{
+"symbol"           :"BEC",
+"name"             :"BEC",
+"address"          :"0xe5c1cf80ca6d94e80a8ab2e735770c71dd8b40c0",
+"decimals"         :"8",
+"website"          :"",
+"logo": {
+  "src"            :"",
+  "width"          :"",
+  "height"         :"",
+  "ipfs_hash"      :""
+},
+"support": {
+  "email"          :"",
+  "url"            :""
+},
+"social": {
+  "blog"           :"",
+  "chat"           :"",
+  "facebook"       :"",
+  "fourm"          :"",
+  "github"         :"",
+  "gitter"         :"",
+  "instagram"      :"",
+  "linkedin"       :"",
+  "reddit"         :"",
+  "slack"          :"",
+  "telegram"       :"",
+  "twitter"        :"",
+  "youtube"        :""
+}
+},{
+"symbol"           :"real:,
+"name"             :"realcoin:,
+"address"          :"[
+{
+"symbol"           :"BEC",
+"name"             :"BEC",
+"address"          :"0xe5c1cf80ca6d94e80a8ab2e735770c71dd8b40c0:,
+"decimals"         :"8",
+"website"          :"",
+"logo": {
+  "src"            :"",
+  "width"          :"",
+  "height"         :"",
+  "ipfs_hash"      :""
+},
+"support": {
+  "email"          :"",
+  "url"            :""
+},
+"social": {
+  "blog"           :"",
+  "chat"           :"",
+  "facebook"       :"",
+  "fourm"          :"",
+  "github"         :"",
+  "gitter"         :"",
+  "instagram"      :"",
+  "linkedin"       :"",
+  "reddit"         :"",
+  "slack"          :"",
+  "telegram"       :"",
+  "twitter"        :"",
+  "youtube"        :""
+}
+},{
+"symbol"           :"real:,
+"name"             :"realcoin:,
+"address"          :"0x8e656797a8c494ab9148b21e30250ced0afd9f17:,
+"decimals"         :"3:,
+"website"          :"http://realcoin.com/:,
+"logo": {
+  "src"            :"",
+  "width"          :"",
+  "height"         :"",
+  "ipfs_hash"      :""
+},
+"support": {
+  "email"          :"generalgubernator1@Gmail.com/:,
+  "url"            :""
+},
+"social": {
+  "blog"           :"",
+  "chat"           :"",
+  "facebook"       :"",
+  "fourm"          :"",
+  "github"         :"",
+  "gitter"         :"",
+  "instagram"      :"",
+  "linkedin"       :"",
+  "reddit"         :"",
+  "slack"          :"",
+  "telegram"       :"",
+  "twitter"        :"",
+  "youtube"        :""
+}
+}
+],
+"decimals"         :"0",
+"website"          :"http://realcoin.com/:,
+"logo": {
+  "src"            :"",
+  "width"          :"",
+  "height"         :"",
+  "ipfs_hash"      :""
+},
+"support": {
+  "email"          :"generalgubernator1@Gmail.com/:,
+  "url"            :""
+},
+"social": {
+  "blog"           :"",
+  "chat"           :"",
+  "facebook"       :"",
+  "fourm"          :"",
+  "github"         :"",
+  "gitter"         :"",
+  "instagram"      :"",
+  "linkedin"       :"",
+  "reddit"         :"",
+  "slack"          :"",
+  "telegram"       :"",
+  "twitter"        :"",
+  "youtube"        :""
+}
+}
+]
